@@ -6,7 +6,7 @@
 </div>
 <div align="center">
 
-# Range Hunter - Trade Book
+# Range Hunter - TradeBook
 </div>
 
 ## Table of Contents
@@ -34,10 +34,17 @@
 * [Psychology](#psychology)
   * [Trader Personality Profile](#trader-personality-profile)
   * [Mental Trading Plan](#mental-trading-plan)
-* [Trade Book Edge](#trade-book-edge)
+* [TradeBook Edge](#tradebook-edge)
   * [Edge Defined](#edge-defined)
 
+***
+
 # Strategy
+<center>
+<img src="assets/images/strategy.png" alt="9/20 Traders" width="400" height="auto">
+</center>
+
+***
 
 ## Trading Plan Summary
 A day trading range breakout strategy, confirmed by a setup on a higher timeframe.
@@ -97,19 +104,27 @@ The formation of ranges can be predicted by watching for the formation of highs 
 **Advancing Stocks:**
 When a stock is advancing, the first sign of a range formation is a new 5-minute low. When we get a new 5-minute low, we mark the previous high as the potential high of the range, and then we wait for a new 5-minute high.
 
-[image 1]
+<center>
+<img src="assets/images/advancing-range-formation-pullback.png" alt="Advancing Range Formation Start" width="400" height="auto">
+</center>
 
 After we have a new 5-minute high, we mark the previous low as the actual low of the range, and then we wait for a new 5-minute low.
 
-[image 2]
+<center>
+<img src="assets/images/advancing-range-formation-continuation.png" alt="Advancing Range Formation Actual Low" width="400" height="auto">
+</center>
 
 Once we have a new 5-minute low, we mark the previous high as the actual high of the range, and we discard the potential high.
 
-[image 3]
+<center>
+<img src="assets/images/advancing-range-formation-actual-high.png" alt="Advancing Range Formation Actual High" width="400" height="auto">
+</center>
 
 If the potential high is broken before making a new 5-minute low, then the potential high is the actual high of the range.
 
-[image 4]
+<center>
+<img src="assets/images/advancing-range-formation-potential-becomes-actual-high.png" alt="Advancing Range Formation Potential High Becomes Actual High" width="400" height="auto">
+</center>
 
 **Declining Stocks:**
 
@@ -140,7 +155,9 @@ Predicting the range before it has fully formed allows us to:
 When predicting a daily range there are extra rules that can be used to help improve the chances of a successful prediction.
 1. When the stock crosses the 20-EMA, we start the formation of a new range, so we do not want to continue to predict candles in the direction of the trend. We should be looking for a reversal candle, where we can predict the next candle will make a new high/low and mark the start of the range.
 
-[image 5]
+<center>
+<img src="assets/images/range-formation-daily-rules-20-ema.png" alt="Range Formation Daily Rules Cross of the 20-EMA" width="400" height="auto">
+</center>
 
 2. When the price pulls back into the 50-SMA, expect the price to bounce and continue in the original direciton of the trend. If the price flags or sets up a range near the 50-SMA, play the break of the 50-SMA.
 
@@ -200,6 +217,10 @@ Reversal setting up near the edge of a range. The goal is to catch the beginning
 
 * The setup is no longer valid if a new 5-minute high is formed.
 
+<center>
+<img src="assets/images/edge-of-range-setup-image.png" alt="Edge of Range Setup Example" width="400" height="auto">
+</center>
+
 ***
 ***
 
@@ -247,6 +268,10 @@ Trend continuation setting up in the middle of a range. The goal is to anticipat
 
 * The setup is no longer valid if the stock breaks the bottom of the range.
 * If the stock breaks the range, then the setup is no longer valid if price pulls back to the middle of the range.
+
+<center>
+<img src="assets/images/fake-break-and-recover-setup-image.png" alt="Fake Break and Recover Setup Example" width="400" height="auto">
+</center>
 
 ***
 ***
@@ -350,6 +375,10 @@ Reversal following a breakout and trend. The goal is to have an opportunity to e
 
 * The setup is no longer valid if the price breaks the middle of the range.
 * The setup is no longer valid if a new 5-minute higher-high or higher-low is formed.
+
+<center>
+<img src="assets/images/pullback-setup-image.png" alt="Pullback Setup Example" width="400" height="auto">
+</center>
 
 ***
 ***
@@ -630,6 +659,13 @@ I will not trade on days where I feel too rushed or cannot free my mind from oth
 
 # Technology
 
+<center>
+<img src="assets/images/technology.png" alt="Technology" width="400" height="auto">
+</center>
+
+***
+***
+
 ## Trading Tools
 
 **Trading Platform:** DAS Trader Pro offers me the best execution speed which is essential to my order execution. I trade equities, so although this platform is basic in its layout, it offers me the correct level of information I need to make an informed decision with my strategy.
@@ -678,6 +714,13 @@ I choose to utilize the following hot buttons on the DAS montage.
 
 # Psychology
 
+<center>
+<img src="assets/images/psychology.png" alt="Psychology" width="400" height="auto">
+</center>
+
+***
+***
+
 ## Trader Personality Profile
 
 Complete the Trader Personality Profile: https://aware-profile.daytradingpsychology.com/ 
@@ -690,6 +733,10 @@ Complete the Trader Personality Profile: https://aware-profile.daytradingpsychol
 
 Based on your score, your Trader Type is the **Agrarian/Realist/Engineer Super-hybrid**.
 
+<center>
+<img src="assets/images/trader-profile.png" alt="Trade Profile" width="400" height="auto">
+</center>
+
 ***
 ***
 
@@ -698,7 +745,14 @@ Based on your score, your Trader Type is the **Agrarian/Realist/Engineer Super-h
 ***
 ***
 
-# Trade Book Edge
+# TradeBook Edge
+
+<center>
+<img src="assets/images/tradebook-edge.png" alt="TradeBook Edge" width="400" height="auto">
+</center>
+
+***
+***
 
 ## Edge Defined
 
