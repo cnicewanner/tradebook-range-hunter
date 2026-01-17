@@ -28,12 +28,13 @@ An automated system for trading into existing and newly forming trends.
 * Do not hold trades overnight or into the after hours.
 
 ## Entry Criteria
+* Note: All candle and moving averages referenced refer to the 1-min chart values, unless otherwise noted.
 * ABCD:
   * Confirmation Candle:
     * Needs to have a strength index over 0.4 (for long) or under -0.4 (for short).
-    * The 1-min moving averages need to be stacked in the direction of the trade.
-      * Long: Price >= 9-EMA >= 20-EMA >= 50-SMA >= 200-SMA.
-      * Short: Price <= 9-EMA <= 20-EMA <= 50-SMA <= 200-SMA.
+    * The moving averages need to be stacked in the direction of the trade.
+      * Long: Price >= 9-EMA >= 20-EMA >= 50-SMA, and Price >= 200-SMA.
+      * Short: Price <= 9-EMA <= 20-EMA <= 50-SMA, and Price <= 200-SMA.
     * **Low of pullback trade**:
       * Stock state needs to be in a pullback.
       * Needs to be bouncing off of the 9-EMA, or 20-EMA, or the high (long) / low (short) of the previous range, or the high (long) / low (short) of the previous pullback.
