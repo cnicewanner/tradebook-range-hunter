@@ -1,16 +1,16 @@
 # AVGO (Nov. 04 2025) - Trend Buddy
 
-![Full Image](./trend-buddy-avgo-2025-11-04.png)
+![Full Image](./images/trend-buddy-avgo-2025-11-04.png)
 
 ## Trade #1
 
 5-min:
 
-![5-min Full Trade](./trend-buddy-avgo-2025-11-04-trade-01-5m.png)
+![5-min Full Trade](./images/trend-buddy-avgo-2025-11-04-trade-01-5m.png)
 
 1-min:
 
-![1-min Full Trade](./trend-buddy-avgo-2025-11-04-trade-01-1m.png)
+![1-min Full Trade](./images/trend-buddy-avgo-2025-11-04-trade-01-1m.png)
 
 * Entry Criteria: 5-min Reversal Candle (Long 1)
 * Confirmation Candle: 09:25:00, high: $359.75, low: $356.81
@@ -27,11 +27,11 @@
 
 5-min:
 
-![5-min Full Trade](./trend-buddy-avgo-2025-11-04-trade-02-5m.png)
+![5-min Full Trade](./images/trend-buddy-avgo-2025-11-04-trade-02-5m.png)
 
 1-min:
 
-![1-min Full Trade](./trend-buddy-avgo-2025-11-04-trade-02-1m.png)
+![1-min Full Trade](./images/trend-buddy-avgo-2025-11-04-trade-02-1m.png)
 
 * Entry Criteria: Pullback (trend short)
 * Confirmation Candle: 10:59:00, high: $364.25, low: $363.71
@@ -46,11 +46,11 @@
 
 5-min:
 
-![5-min Full Trade](./trend-buddy-avgo-2025-11-04-trade-03-5m.png)
+![5-min Full Trade](./images/trend-buddy-avgo-2025-11-04-trade-03-5m.png)
 
 1-min:
 
-![1-min Full Trade](./trend-buddy-avgo-2025-11-04-trade-03-1m.png)
+![1-min Full Trade](./images/trend-buddy-avgo-2025-11-04-trade-03-1m.png)
 
 * Entry Criteria: 5-min Reversal Candle (Short 2)
 * Confirmation Candle: 13:05:00-13:10:00, high: $359.37, low: $358.52
@@ -62,11 +62,11 @@
 
 5-min:
 
-![5-min Full Trade](./trend-buddy-avgo-2025-11-04-trade-04-5m.png)
+![5-min Full Trade](./images/trend-buddy-avgo-2025-11-04-trade-04-5m.png)
 
 1-min:
 
-![1-min Full Trade](./trend-buddy-avgo-2025-11-04-trade-04-1m.png)
+![1-min Full Trade](./images/trend-buddy-avgo-2025-11-04-trade-04-1m.png)
 
 * Entry Criteria: Pullback (trend short)
 * Confirmation Candle: 13:39:00, high: $364.25, low: $363.71
@@ -77,11 +77,11 @@
 
 5-min:
 
-![5-min Full Trade](./trend-buddy-avgo-2025-11-04-trade-05-5m.png)
+![5-min Full Trade](./images/trend-buddy-avgo-2025-11-04-trade-05-5m.png)
 
 1-min:
 
-![1-min Full Trade](./trend-buddy-avgo-2025-11-04-trade-05-1m.png)
+![1-min Full Trade](./images/trend-buddy-avgo-2025-11-04-trade-05-1m.png)
 
 * Entry Criteria: 5-min Reversal Candle (Long 1)
 * Confirmation Candle: 13:45:00, high: $359.15, low: $358.37
@@ -94,11 +94,11 @@
 
 5-min:
 
-![5-min Full Trade](./trend-buddy-avgo-2025-11-04-trade-06-5m.png)
+![5-min Full Trade](./images/trend-buddy-avgo-2025-11-04-trade-06-5m.png)
 
 1-min:
 
-![1-min Full Trade](./trend-buddy-avgo-2025-11-04-trade-06-1m.png)
+![1-min Full Trade](./images/trend-buddy-avgo-2025-11-04-trade-06-1m.png)
 
 * Entry Criteria: 5-min Reversal Candle (Short 1)
 * Confirmation Candle: 13:55:00, high: $359.35, low: $358.62

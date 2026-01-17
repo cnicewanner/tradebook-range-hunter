@@ -1,16 +1,16 @@
 # TSLA (Oct. 23 2025) - Trend Buddy
 
-![Full Image](./trend-buddy-tsla-2025-10-23.png)
+![Full Image](./images/trend-buddy-tsla-2025-10-23.png)
 
 ## Trade #1
 
 5-min:
 
-![5-min Full Trade](./trend-buddy-tsla-2025-10-23-trade-01-5m.png)
+![5-min Full Trade](./images/trend-buddy-tsla-2025-10-23-trade-01-5m.png)
 
 1-min:
 
-![1-min Full Trade](./trend-buddy-tsla-2025-10-23-trade-01-1m.png)
+![1-min Full Trade](./images/trend-buddy-tsla-2025-10-23-trade-01-1m.png)
 
 * Entry Criteria: Pullback (Long Trend)
 * Confirmation Candle: 11:13:00, high: $429.25, low: $428.28
@@ -27,11 +27,11 @@
 
 5-min:
 
-![5-min Full Trade](./trend-buddy-tsla-2025-10-23-trade-02-5m.png)
+![5-min Full Trade](./images/trend-buddy-tsla-2025-10-23-trade-02-5m.png)
 
 1-min:
 
-![1-min Full Trade](./trend-buddy-tsla-2025-10-23-trade-02-1m.png)
+![1-min Full Trade](./images/trend-buddy-tsla-2025-10-23-trade-02-1m.png)
 
 * Entry Criteria: Continuation (Long Trend)
 * Confirmation Candle: 11:59:00, high: $433.97, low: $432.45

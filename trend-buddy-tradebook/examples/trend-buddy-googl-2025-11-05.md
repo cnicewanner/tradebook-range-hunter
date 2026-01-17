@@ -1,16 +1,16 @@
 # GOOGL (Nov. 05 2025) - Trend Buddy
 
-![Full Image](./trend-buddy-googl-2025-11-05.png)
+![Full Image](./images/trend-buddy-googl-2025-11-05.png)
 
 ## Trade #1
 
 5-min:
 
-![5-min Full Trade](./trend-buddy-googl-2025-11-05-trade-01-5m.png)
+![5-min Full Trade](./images/trend-buddy-googl-2025-11-05-trade-01-5m.png)
 
 1-min:
 
-![1-min Full Trade](./trend-buddy-googl-2025-11-05-trade-01-1m.png)
+![1-min Full Trade](./images/trend-buddy-googl-2025-11-05-trade-01-1m.png)
 
 * Entry Criteria: Continuation (Short Trend)
 * Confirmation Candle: 09:34:00, high: $278.59, low: $277.85
@@ -21,11 +21,11 @@
 
 5-min:
 
-![5-min Full Trade](./trend-buddy-googl-2025-11-05-trade-02-5m.png)
+![5-min Full Trade](./images/trend-buddy-googl-2025-11-05-trade-02-5m.png)
 
 1-min:
 
-![1-min Full Trade](./trend-buddy-googl-2025-11-05-trade-02-1m.png)
+![1-min Full Trade](./images/trend-buddy-googl-2025-11-05-trade-02-1m.png)
 
 * Entry Criteria: 5-min Reversal Candle (Long 1)
 * Confirmation Candle: 09:40:00, high: $280.22, low: $278.60
@@ -41,11 +41,11 @@
 
 5-min:
 
-![5-min Full Trade](./trend-buddy-googl-2025-11-05-trade-03-5m.png)
+![5-min Full Trade](./images/trend-buddy-googl-2025-11-05-trade-03-5m.png)
 
 1-min:
 
-![1-min Full Trade](./trend-buddy-googl-2025-11-05-trade-03-1m.png)
+![1-min Full Trade](./images/trend-buddy-googl-2025-11-05-trade-03-1m.png)
 
 * Entry Criteria: 5-min Reversal Candle (Long 2)
 * Confirmation Candle: 11:20:00-11:25:00, high: $283.6, low: $282.11
@@ -56,11 +56,11 @@
 
 5-min:
 
-![5-min Full Trade](./trend-buddy-googl-2025-11-05-trade-04-5m.png)
+![5-min Full Trade](./images/trend-buddy-googl-2025-11-05-trade-04-5m.png)
 
 1-min:
 
-![1-min Full Trade](./trend-buddy-googl-2025-11-05-trade-04-1m.png)
+![1-min Full Trade](./images/trend-buddy-googl-2025-11-05-trade-04-1m.png)
 
 * Entry Criteria: 5-min Reversal (Long 1)
 * Confirmation Candle: 12:10:00, high: $283.95, low: $283.3
@@ -71,11 +71,11 @@
 
 5-min:
 
-![5-min Full Trade](./trend-buddy-googl-2025-11-05-trade-05-5m.png)
+![5-min Full Trade](./images/trend-buddy-googl-2025-11-05-trade-05-5m.png)
 
 1-min:
 
-![1-min Full Trade](./trend-buddy-googl-2025-11-05-trade-05-1m.png)
+![1-min Full Trade](./images/trend-buddy-googl-2025-11-05-trade-05-1m.png)
 
 ### Trade #5
 * Entry Criteria: 5-min Reversal Candle (Short 1)

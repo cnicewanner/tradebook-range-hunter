@@ -1,16 +1,16 @@
 # GOOGL (Nov. 21 2025) - Trend Buddy
 
-![Full Image](./trend-buddy-googl-2025-11-21.png)
+![Full Image](./images/trend-buddy-googl-2025-11-21.png)
 
 ## Trade #1
 
 5-min:
 
-![5-min Full Trade](./trend-buddy-googl-2025-11-21-trade-01-5m.png)
+![5-min Full Trade](./images/trend-buddy-googl-2025-11-21-trade-01-5m.png)
 
 1-min:
 
-![1-min Full Trade](./trend-buddy-googl-2025-11-21-trade-01-1m.png)
+![1-min Full Trade](./images/trend-buddy-googl-2025-11-21-trade-01-1m.png)
 
 * Entry Criteria: 5-min Reversal Candle (Short 1)
 * Confirmation Candle: 10:25:00, high: $, low: $
@@ -27,11 +27,11 @@
 
 5-min:
 
-![5-min Full Trade](./trend-buddy-googl-2025-11-21-trade-02-5m.png)
+![5-min Full Trade](./images/trend-buddy-googl-2025-11-21-trade-02-5m.png)
 
 1-min:
 
-![1-min Full Trade](./trend-buddy-googl-2025-11-21-trade-02-1m.png)
+![1-min Full Trade](./images/trend-buddy-googl-2025-11-21-trade-02-1m.png)
 
 * Entry Criteria: Pullback (Long Trend)
 * Confirmation Candle: 10:52:00, high: $, low: $
@@ -44,11 +44,11 @@
 
 5-min:
 
-![5-min Full Trade](./trend-buddy-googl-2025-11-21-trade-03-5m.png)
+![5-min Full Trade](./images/trend-buddy-googl-2025-11-21-trade-03-5m.png)
 
 1-min:
 
-![1-min Full Trade](./trend-buddy-googl-2025-11-21-trade-03-1m.png)
+![1-min Full Trade](./images/trend-buddy-googl-2025-11-21-trade-03-1m.png)
 
 * Entry Criteria: 5-min Reversal Candle (Short 1)
 * Confirmation Candle: 11:30:00, high: $, low: $
@@ -61,11 +61,11 @@
 
 5-min:
 
-![5-min Full Trade](./trend-buddy-googl-2025-11-21-trade-04-5m.png)
+![5-min Full Trade](./images/trend-buddy-googl-2025-11-21-trade-04-5m.png)
 
 1-min:
 
-![1-min Full Trade](./trend-buddy-googl-2025-11-21-trade-04-1m.png)
+![1-min Full Trade](./images/trend-buddy-googl-2025-11-21-trade-04-1m.png)
 
 * Entry Criteria: 5-min Reversal (Short 1)
 * Confirmation Candle: 12:25:00, high: $, low: $
@@ -77,11 +77,11 @@
 
 5-min:
 
-![5-min Full Trade](./trend-buddy-googl-2025-11-21-trade-05-5m.png)
+![5-min Full Trade](./images/trend-buddy-googl-2025-11-21-trade-05-5m.png)
 
 1-min:
 
-![1-min Full Trade](./trend-buddy-googl-2025-11-21-trade-05-1m.png)
+![1-min Full Trade](./images/trend-buddy-googl-2025-11-21-trade-05-1m.png)
 
 * Entry Criteria: 5-min Reversal Candle (Short 1)
 * Confirmation Candle: 15:10:00, high: $, low: $
