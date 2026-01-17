@@ -9,6 +9,8 @@
 # Range Hunter - TradeBook
 </div>
 
+***
+
 ## Table of Contents
 * [Strategy](#strategy)
   * [Trading Plan Summary](#trading-plan-summary)
@@ -38,6 +40,7 @@
   * [Edge Defined](#edge-defined)
 
 ***
+***
 
 # Strategy
 
@@ -45,6 +48,7 @@
 <img src="assets/images/strategy.png" alt="Strategy" width="400" height="auto">
 </div>
 
+***
 ***
 
 ## Trading Plan Summary
