@@ -5,7 +5,7 @@ An automated system for trading into existing and newly forming trends.
 
 ## Stock Selection
 * Stock selection is currently done manually.
-* The bot will watch 8 stocks each day.
+* 8 stocks are watched each day.
 * Stocks are choosen by:
   * Take all stocks over 200% RVOL in the premarket.
   * Remove any stocks that have under $5 ATR.
@@ -20,7 +20,7 @@ An automated system for trading into existing and newly forming trends.
     * This involves looking for stocks that are setting up for a play (ABCD, breakout, trending, or at edge of range) on the daily, 60-minute, or 15-minute charts.
     * If more than 8 stocks exist, favor TSLA, PLTR, HOOD, GOOGL, AMD, NVDA, RKLB, AAPL or other stocks that I have traded regularly, verses those that I have never or rarely trade.
     * If less than 8 stocks exist, select from TSLA, PLTR, HOOD, GOOGL, AMD, NVDA, RKLB, or AAPL, to fill the remaining spots, selecting those in the best position for a potential trend play.
-  * If the bot is trading live, AAPL cannot be traded until March 15, 2026 to avoid tax issues.
+  * If trading live, AAPL cannot be traded until March 15, 2026 to avoid tax issues.
 
 ## Timeframe
 * Only enter a trade between 9:30 EST and 15:30 EST.
@@ -127,7 +127,7 @@ An automated system for trading into existing and newly forming trends.
 * If we don't know the stock's state, we look for an initial range or trend, by looping through the previous 150 candles (from the oldest to the newest), tracking the state of the stock:
   * When starting:
     * If the moving averages are stacked, we assume we have a trending moving in the direction that the averages are stacked.
-      * Stacked averages meaning, for long the price >= 9-EMA >= 20-EMA => 50-SMA, for short price <= 9-EMA <= 20-EMA <= 50-SMA.
+      * Stacked averages means, for long the price >= 9-EMA >= 20-EMA => 50-SMA, for short price <= 9-EMA <= 20-EMA <= 50-SMA.
     * If the moving averages are not stacked, we start tracking the local high and low of the candles, waiting for a trending state to be reached.
       * If we don't reach a trend state before the 150 candles are exaushted then we use the calculated low and high as the starting range.
   * Once we have a range or a trend, we continue to walk through the remaining candles to tracking the stock's state.
@@ -163,7 +163,7 @@ An automated system for trading into existing and newly forming trends.
 * A trade is closed when:
   * The stop order is triggered, or
   * A 5-min candle closes beyond the 9-EMA.
-    * Beyond meaning, for longs below the 9-EMA, for shorts above the 9-EMA.
+    * Beyond means, for longs below the 9-EMA, for shorts above the 9-EMA.
 
 ## Trade Management Rules
 * The initial risk for a trade is $15.
@@ -187,3 +187,6 @@ An automated system for trading into existing and newly forming trends.
 * [GOOGL (2025-11-05) - 13 Trades](./examples/trend-buddy-googl-2025-11-05.md)
 * [MU    (2025-11-06) - 12 Trades](./examples/trend-buddy-mu-2025-11-06.md)
 * [GOOGL (2025-11-21) -  5 Trades](./examples/trend-buddy-googl-2025-11-21.md)
+
+## Manual Trade Examples and Strucutre Notes
+* [Manual Trades](./manual-trades/README.md)
